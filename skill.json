@@ -1,0 +1,12 @@
+{
+  "name": "genpark-icp-firmographic-matcher-filter-skill",
+  "version": "1.0.0",
+  "description": "Multi-dimensional Ideal Customer Profile (ICP) grading engine evaluating revenue tiers, headcount, and technographic compatibility.",
+  "category": "Sales Intelligence & Lead Enrichment",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-icp-firmographic-matcher-filter-skill",
+  "verified": true,
+  "stars": 8
+}
